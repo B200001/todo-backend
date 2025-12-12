@@ -14,7 +14,7 @@
     "sourceMap": true,
     "resolveJsonModule": true
 
-    // ❌ Removed: "types": ["node"]
+    // Removed: "types": ["node"]
   },
   "include": ["src"],
   "exclude": ["node_modules"]
