@@ -12,9 +12,9 @@
     "forceConsistentCasingInFileNames": true,
 
     "sourceMap": true,
-    "resolveJsonModule": true,
+    "resolveJsonModule": true
 
-    "types": ["node"]
+    // ❌ Removed: "types": ["node"]
   },
   "include": ["src"],
   "exclude": ["node_modules"]
